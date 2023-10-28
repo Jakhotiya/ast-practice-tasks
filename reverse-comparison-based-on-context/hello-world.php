@@ -28,3 +28,5 @@ function bar():string{
 if(strlen(bar()) < 5 ){
     echo 'hello world';
 }
+
+echo $_GET['q'] >= 5 ? 'Hello':'World';
