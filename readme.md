@@ -20,7 +20,7 @@ node visitor pattern, trees and recursion in general.
 4. print all the lines that use super global variable.
 5. Reverse comparison operator in all if conditions in program
 6. Switch to strict comparison,convert == operator to === operator and != to !==
-7. Reverse an operator only if it is part of a method, functions as code in global scope should be left untouched.
+7. Reverse an operator only if it is part of a method. functions and code in global scope should be left untouched.
 8. Reverse operator only in ternary condition
 9. Given a variable name as input print the type of the variable.
 10. print variables that have been typecasted.
