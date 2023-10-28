@@ -20,11 +20,13 @@ node visitor pattern, trees and recursion in general.
 4. print all the lines that use super global variable.
 5. Reverse comparison operator in all if conditions in program
 6. convert == operator to === operator in the program
-7. Given a variable name as input print the type of the variable.
-8. print variables that have been typecasted.
-9. Create Hello world program by directly building an AST
-10. If a class extends another class, print the parent class name.
-11. Print the fully qualified name of the class
+7. Reverse an operator only if it is part of a method, functions as code in global scope should be left untouched.
+8. Reverse operator only in ternary condition
+9. Given a variable name as input print the type of the variable.
+10. print variables that have been typecasted.
+11. Create Hello world program by directly building an AST
+12. If a class extends another class, print the parent class name.
+13. Print the fully qualified name of the class
 
 ## Recommended reading
 1. [Crafting Interpreters](https://craftinginterpreters.com/)
