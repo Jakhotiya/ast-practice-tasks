@@ -28,6 +28,14 @@ node visitor pattern, trees and recursion in general.
 12. If a class extends another class, print the parent class name.
 13. Print the fully qualified name of the class
 
+There is one task above for building program by hand-coding it's AST. Why would you do such a thing?
+I generated *find maximum from array* program by writing the AST. While doing this I had to go through all the 
+available Expression and Statements. I was searching for which nodes to use. Sometimes I had to generate the AST and take a hint. 
+While doing this I got very familiar with different nodes and properties they have.
+
+I feel this level of comfort is important before moving on to building tools with AST's.
+If you were to write a phpstan/phan/phpmd plugin and you were frustrated with basics, you would give up. 
+
 ## Recommended reading
 1. [Crafting Interpreters](https://craftinginterpreters.com/)
 2. [Writing an Interpreter in Go](https://interpreterbook.com/)
